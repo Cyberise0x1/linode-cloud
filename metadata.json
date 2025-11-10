@@ -1,0 +1,5 @@
+{
+  "name": "CloudManager MVP",
+  "description": "A responsive cloud infrastructure management dashboard inspired by Linode Manager, featuring instance management, resource monitoring, and AI-powered insights.",
+  "requestFramePermissions": []
+}
